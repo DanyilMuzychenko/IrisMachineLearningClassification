@@ -53,4 +53,4 @@ W projekcie zastosowano takie modeli uczenia maszynowego:
 - Prognozy są wykonywane dla trzech nowych zestawów danych.
 ## Developers
 
-- Danyil Muzychenko (https://github.com/TheHallRide)
+- Danyil Muzychenko (https://github.com/DanyilMuzychenko)
