@@ -12,7 +12,9 @@ Klasyfikacja kwiatów tęczówki przy użyciu różnych algorytmów uczenia masz
 
 ## About
 
-Projekt jest klasyfikacją opartą na uczeniu maszynowym przy użyciu publicznie dostępnego zbioru danych Iris składającego się ze 150 rekordów. Celem jest klasyfikacja tęczówek na podstawie ich cech, takich jak długość działki, szerokość działki, długość płatka i szerokość płatka. </br>
+
+Projekt zakłada wykorzystanie zestawu danych Iris, który jest dostępny publicznie i zawiera 150 rekordów. Celem jest stworzenie klasyfikatora opartego na uczeniu maszynowym, który będzie klasyfikował irysy na podstawie ich cech, takich jak długość i szerokość działki oraz długość i szerokość płatka.
+</br>
 W projekcie zastosowano takie modeli uczenia maszynowego:
 - - `K-Nearest Neighbors (KNN)`
 - - `Support Vector Machine (SVM)`
